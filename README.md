@@ -1,4 +1,4 @@
-# Kiba-G 計算機 Terminal上で解析するツールの紹介
+# Kiba-G 計算機でできる解析　(Terminal使用）
 
 ### RNAseq
 nf-core/rnaseq
