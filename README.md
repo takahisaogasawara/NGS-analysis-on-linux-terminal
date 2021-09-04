@@ -8,7 +8,7 @@ rMATS
 spladder
 
 ### タンパク構造予測
-AlphaFold2
+AlphaFold2　　
 RoseTTAFold
 
 ### 10x genomics
