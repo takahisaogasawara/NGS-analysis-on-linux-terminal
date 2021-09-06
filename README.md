@@ -1,4 +1,6 @@
+作成中
 # Kiba-G所有の計算機で可能な解析　(ubuntu Terminal）
+
 
 ### RNAseq
 nf-core/rnaseq
