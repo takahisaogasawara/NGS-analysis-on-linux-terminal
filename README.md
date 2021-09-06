@@ -7,10 +7,6 @@ nf-core/rnaseq
 rMATS
 spladder
 
-### タンパク構造予測
-AlphaFold2　　<br>
-RoseTTAFold
-
 ### 10x genomics
 Cell Ranger 6.1
 Space Ranger 
@@ -20,7 +16,9 @@ VOXhunt
 
 
 ###
-
+### タンパク構造予測
+AlphaFold2　　<br>
+RoseTTAFold
 
 ###
 
