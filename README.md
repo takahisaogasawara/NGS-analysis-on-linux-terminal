@@ -1,4 +1,4 @@
-#鋭意作成中
+#鋭意作成中<br>
  Kiba-G所有の計算機で可能な解析　(ubuntu Terminal）
 
 
