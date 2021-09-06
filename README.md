@@ -8,11 +8,11 @@ rMATS
 spladder
 
 ### 10x genomics
-Cell Ranger 6.1
+Cell Ranger 6.1<br>
 Space Ranger 
 
 ### 
-VOXhunt
+
 
 
 ###
